@@ -1,0 +1,2 @@
+# Deploy-Scalable-VPC-Architecture-on-AWS-Cloud
+The primary objective of this project is to deploy a scalable, highly available, and secure web application using a robust 3-tier architecture on AWS. Utilizing EC2, VPC, Auto Scaling, and Transit Gateway, this solution ensures optimal availability, security, &amp; maintainability, making the application accessible to end-users via the public internet
